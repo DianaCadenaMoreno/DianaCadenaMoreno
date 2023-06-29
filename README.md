@@ -1,5 +1,6 @@
 ### Holis soy diana:)
 
+![giphy](https://media.giphy.com/media/3oKIPnAiaMCws8nOsE/giphy.gif)
 <!--
 **DianaCadenaMoreno/DianaCadenaMoreno** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -14,6 +15,8 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+- 🤍 I’m currently working on university projects
+-  🌱 I’m currently learning **Javascript, React** and **Python**
 <div>
   <a href="https://github.com/DianaCadenaMoreno/DianaCadenaMoreno">
   <img height="180cm" src="https://github-readme-stats.vercel.app/api?username=DianaCadenaMoreno&show_icons=true&theme=compact"/>
